@@ -31,3 +31,5 @@ print("How about some more?")
 print("Is it grater?", 5 > -2)
 print("Is is grater or equal?", 5 >= -2)
 print("Is it less or equal?", 5 <= -2)
+
+print("Siemano siemano!")
