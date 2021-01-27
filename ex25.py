@@ -1,5 +1,5 @@
 def break_words(stuff):
-    """This function will break up words for us."""
+    """This git function will break up words for us."""
     words = stuff.split(' ')
     return words
 
@@ -33,4 +33,3 @@ def print_first_and_last_sorted(sentence):
     words = sort_sentence(sentence)
     print_first_word(words)
     print_last_word(words)
-    
